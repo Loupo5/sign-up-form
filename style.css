@@ -17,7 +17,6 @@ body {
 .left-section {
     width: 25%;
     border: 1px solid white;
-    position: absolute;
     height: 80%;
     margin-left: 5%;
 }
